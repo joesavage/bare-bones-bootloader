@@ -1,0 +1,4 @@
+A really basic bootloader (with the standard MBR boot signature).
+Keepin' it real mode, homies.
+
+Associated Blog Post: http://www.reinterpretcast.com/create-a-basic-bootloader
