@@ -18,7 +18,7 @@ _start:
 
 data:
 message:
-    .asciz "Hello world!"
+    .asciz "This was outputted by a basic bootloader!"
 
 print:
     mov $0x0E, %ah
