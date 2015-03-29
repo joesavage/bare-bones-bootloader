@@ -1,7 +1,7 @@
 SOURCE = bootloader.nasm
 BINARY = bootloader.bin
 
-VM = qemu-system-i386
+VM = qemu
 VMARGS = -fda ${BINARY} -curses
 
 AS = yasm
